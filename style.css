@@ -1,0 +1,29 @@
+body{
+    p
+}
+.profile{
+    height: auto;
+    max-width: 100%;
+    width: 200;
+}
+.profilename{
+    font: bold;
+    text-align: center;
+    background-color: blue;
+}
+.about{
+    text-align: center;
+    font: bold;
+}
+h2{
+    text-align: center;
+}
+h1{
+    color: white;
+    font-size: 25;
+    padding: 20;
+    margin: -25;
+}
+img{
+    vertical-align: middle;
+}
